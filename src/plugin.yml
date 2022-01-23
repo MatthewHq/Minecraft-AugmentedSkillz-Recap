@@ -1,0 +1,23 @@
+name: AugmentedSkillz
+main: com.gmail.hoque.matt.AugSkz.AugSkz
+version: 0.2
+authors: 
+    - Portalz
+description: Augmented Skillz
+commands:
+    as:
+        description: Augmented Skillz Base Command
+        #usage:
+
+            
+            
+    
+permissions:
+  AugmentedSkillz.admin:
+    Description: Development Permissions.
+    default: false
+  AugmentedSkillz.player:
+    Description: Allows users to access common commands.
+    default: true    
+    
+softdepend: [Multiverse-Core]

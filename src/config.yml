@@ -1,0 +1,51 @@
+#MySQL
+MySQL:
+MySQLhost:
+MySQLuser:
+MySQLpass:
+
+#Custom URL code
+dat:
+    
+#controls
+OreTaggedDrops: true
+FishTaggedDrops: true
+#BlockXPTable:
+#-ClayXP
+#-CoalXP
+#-IronXP
+#-RedstoneXP
+#-GoldXP
+#-LapisXP
+#-DiamondXP
+#-EmeraldXP
+BlockXPTable:
+- 25
+- 40
+- 50
+- 60
+- 65
+- 65
+- 80
+- 90
+#RegFish
+#Salmon
+#Puffer
+#Clown
+FishXPTable:
+- 25
+- 35
+- 50
+- 100
+#BlockXPTable:
+#-CropsXP
+#-CarrotXP
+#-PotatoXP
+#-CocoaXP
+#-NetherWartXP
+FarmXPTable:
+- 20
+- 25
+- 40
+- 35
+- 30
