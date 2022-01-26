@@ -1,4 +1,4 @@
-# Minecraft-AugmentedSkillz-Recap
+# AugmentedSkillz: Minecraft Plugin
 
 ### Gameplay extension suite via introduction of skills made for parallel game "world" usage in "dynamic" and "static" worlds
 
